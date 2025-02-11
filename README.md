@@ -11,29 +11,29 @@ Inventory management insights including current stock levels, minimum thresholds
 Financial analysis showcasing total revenue and profitability metrics.
 Interactive elements allowing users to filter by date, product, location, and sales channel.
 
-Dataset Columns: The dataset has numerous records and the columns are,
-Location
-Total Land Area (acres)
-Number of Cows
-Farm Size
-Date
-Product ID
-Product Name
-Brand
-Quantity (liters/kg)
-Price per Unit
-Total Value
-Shelf Life (days)
-Storage Condition
-Production Date
-Expiration Date
-Quantity Sold (liters/kg)
-Price per Unit (sold)
-Approx. Total Revenue (INR)
-Customer Location
-Sales Channel
-Quantity in Stock (liters/kg)
-Minimum Stock Threshold (liters/kg)
+Dataset Columns: The dataset has numerous records and the columns are.
+Location,
+Total Land Area (acres),
+Number of Cows,
+Farm Size,
+Date,
+Product ID,
+Product Name,
+Brand,
+Quantity (liters/kg),
+Price per Unit,
+Total Value,
+Shelf Life (days),
+Storage Condition,
+Production Date,
+Expiration Date,
+Quantity Sold (liters/kg),
+Price per Unit (sold),
+Approx. Total Revenue (INR),
+Customer Location,
+Sales Channel,
+Quantity in Stock (liters/kg),
+Minimum Stock Threshold (liters/kg),
 Reorder Quantity (liters/kg)
 
 🛠️ Tools & Techniques Used
